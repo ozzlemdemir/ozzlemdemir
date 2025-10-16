@@ -56,9 +56,7 @@ I'm Özlem Demir from Samsun, Türkiye<br><br>
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ozzlemdemir&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozzlemdemir&show_icons=true&theme=tokyonight" height="200" alt="github stats" />
