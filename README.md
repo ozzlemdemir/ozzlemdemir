@@ -1,7 +1,7 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Laptop animation" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 </div>
-
 ###
 
 <div align="center">
