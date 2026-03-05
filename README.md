@@ -54,13 +54,6 @@ I'm Özlem Demir from Samsun, Türkiye<br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozzlemdemir&show_icons=true&theme=tokyonight" height="200" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzlemdemir&layout=compact&theme=tokyonight" height="200" alt="languages graph" />
-</div>
 
 ###
