@@ -34,7 +34,7 @@ I'm Özlem Demir from Samsun, Türkiye<br><br>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+
 
 <div align="left">
  
