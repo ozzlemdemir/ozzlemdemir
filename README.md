@@ -16,7 +16,7 @@
 ###
 ###
 
-<h1 align="center">Hey there 👋, I'm Özlem Demir</h1>
+<h1 align="center">Hey there , I'm Özlem Demir</h1>
 
 ###
 
@@ -29,7 +29,7 @@
 <p align="left">
 I'm Özlem Demir from Samsun, Türkiye<br><br>
 - 🎓 I'm a 3rd-year Software Engineering student at Karadeniz Technical University.<br>
-- 🌱 I’m currently learning **AI** and improving my **Web Development** skills.<br>
+- 🌱 I’m into ML and AI at the same time <br>
 </p>
 
 ###
