@@ -27,9 +27,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I'm Özlem Demir from Samsun, Türkiye<br><br>
+I am on my way to becoming a software engineer.<br><br>
 - 🎓 I'm a 3rd-year Software Engineering student at Karadeniz Technical University.<br>
-- 🌱 I’m into ML and AI at the same time <br>
+- 🌱 I’m into Machine Learning and AI at the same time. And searching and building about this. <br>
 </p>
 
 ###
