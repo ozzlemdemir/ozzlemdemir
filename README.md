@@ -28,7 +28,7 @@
 
 <p align="left">
 I am on my way to becoming a software engineer.<br><br>
-- 🎓 I'm a 3rd-year Software Engineering student at Karadeniz Technical University.<br>
+- 🎓 I'm a 4th-year Software Engineering student at Karadeniz Technical University.<br>
 - 🌱 I’m into Machine Learning and AI at the same time. And searching and building about this. <br>
 </p>
 
