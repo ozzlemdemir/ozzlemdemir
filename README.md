@@ -3,7 +3,6 @@
 <br><br>
 </div>
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ozzlemdemir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -13,39 +12,106 @@
   </a>
 </div>
 
-###
-###
+<br>
 
-<h1 align="center">Hey there , I'm Özlem Demir</h1>
+<h1 align="center">Merhaba, ben Özlem Demir 👋</h1>
 
-###
+<h3 align="center">🤖 Computer Vision & Machine Learning meraklısı Yazılım Mühendisliği öğrencisi</h3>
 
-<h3 align="center">💻 Software Engineering Student </h3>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
-I am on my way to becoming a software engineer.<br><br>
-- 🎓 I'm a 4th-year Software Engineering student at Karadeniz Technical University.<br>
-- 🌱 I’m into Machine Learning and AI at the same time. And searching and building about this. <br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=YOLO+%2B+ByteTrack+ile+nesne+takibi+yaz%C4%B1yorum;RAG+tabanl%C4%B1+Text-to-SQL+sistemleri+kuruyorum;Edge+cihazlarda+model+optimize+ediyorum+(TensorRT);Sub-GHz+kablosuz+a%C4%9Flar+%C3%BCzerine+akademik+%C3%A7al%C4%B1%C5%9F%C4%B1yorum" alt="Typing SVG" />
 </p>
 
 ###
 
+<h3 align="left">👩‍💻 Hakkımda</h3>
 
+<p align="left">
+- 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
+- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
+- 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
+- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
+- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
+- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
+- 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
+</p>
 
-<div align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  
+###
 
+<h3 align="left">🛠️ Kullandığım Araçlar & Teknolojiler</h3>
+
+<p align="left">
+<b>Computer Vision & ML</b><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optuna-3860A8?style=for-the-badge"/>
+<br><br>
+<b>LLM / RAG</b><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br><br>
+<b>Backend & Altyapı</b><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<br><br>
+<b>Frontend & Mobil</b><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<br><br>
+<b>IoT & Diğer</b><br>
+<img src="https://img.shields.io/badge/Contiki--NG-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+</p>
+
+###
+
+<h3 align="left">📊 GitHub İstatistiklerim</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozzlemdemir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzlemdemir&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozzlemdemir&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ozzlemdemir&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+###
+
+<h3 align="left">🚀 Öne Çıkan Projeler</h3>
+
+<p align="left">
+🧑‍🏭 <b>Operatör Gözlem Sistemi (TEKNOPAR)</b> — YOLOv8 + ByteTrack/BoT-SORT ile operatör takibi, ısı haritaları ve yasak bölge tespiti.<br><br>
+💬 <b>ChatDB</b> — Doğal dilden SQL'e chatbot; QLoRA ile fine-tune edilmiş sqlcoder-7b-2, FastAPI + React + MongoDB/PostgreSQL.<br><br>
+🧬 <b>KTÜ PROTEK MEDTECH — TEKNOFEST 2026</b> — Genomik varyant patojenite sınıflandırması için ML modelleri (RandomForest, CatBoost, XGBoost vb.).<br><br>
+🤟 <b>Türk İşaret Dili Tanıma</b> — MediaPipe ve ML/Derin öğrenme tabanlı TİD tanıma sistemi (bitirme projesi).<br><br>
+🍽️ <b>KTÜ Yemekhane</b> — Yemekhane menüsü takibi için Flutter/Firebase mobil uygulaması.<br>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
-
-###
-
-
-
-###
