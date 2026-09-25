@@ -95,21 +95,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ozzlemdemir&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
-###
-
-<h3 align="left">🚀 Öne Çıkan Projeler</h3>
-
-<p align="left">
-- 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
-- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
-- 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
-- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
-- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
-- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
-- 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
-</p>
-
-###
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
