@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">📊 GitHub İstatistiklerim</h3> <table align="center"> <tr> <td></td> <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzlemdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/></td> </tr> </table> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/> </p> <p align="center"> <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ozzlemdemir&theme=react-dark&hide_border=true" alt="activity graph"/> </p> <p align="center"> <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ozzlemdemir&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/> </p> 
+<h3 align="left">📊 GitHub İstatistiklerim</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/> </p> <p align="center"> <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ozzlemdemir&theme=react-dark&hide_border=true" alt="activity graph"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/> </p> 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
