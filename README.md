@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">📊 GitHub İstatistiklerim</h3> <table align="center"> <tr> <td><img height="165em" src="https://github-readme-stats.vercel.app/api?username=ozzlemdemir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/></td> <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzlemdemir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/></td> </tr> </table> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/> </p>  <p align="center"> <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/> </p> <p align="center"> 
+<h3 align="left">📊 GitHub İstatistiklerim</h3>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/> </p>  <p align="center"> <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/> </p> <p align="center"> 
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
