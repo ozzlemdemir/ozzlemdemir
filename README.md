@@ -16,10 +16,10 @@
 
 <h1 align="center">Merhaba, ben Özlem Demir 👋</h1>
 
-<h3 align="center">🤖 Computer Vision & Machine Learning  Yazılım Mühendisliği öğrencisi</h3>
+<h3 align="center">🤖 Computer Vision & Machine Learning meraklısı Yazılım Mühendisliği öğrencisi</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=YOLO+%2B+ByteTrack+ile+nesne+takibi+yaz%C4%B1yorum;RAG+tabanl%C4%B1+Text-to-SQL+sistemleri+kuruyorum;Edge+cihazlarda+model+optimize+ediyorum+(TensorRT);Sub-GHz+kablosuz+a%C4%9Flar+%C3%BCzerine+akademik+%C3%A7al%C4%B1%C5%9F%C4%B1yorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=GitHub+sayfama+ho%C5%9F+geldiniz+%F0%9F%91%8B;%C4%B0yi+incelemeler" alt="Typing SVG" />
 </p>
 
 ###
@@ -28,11 +28,11 @@
 
 <p align="left">
 - 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
-- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
+- 🔭 Şu anda <b>MoveOn AI</b>'da 3 aylık yazılım mühendisliği stajına hazırlanıyorum<br>
 - 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
-- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
-- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
-- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
+- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir derleme makalesi yazıyorum<br>
+- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda KTÜ PROTEK MEDTECH takımıyla genomik varyant sınıflandırma modelleri geliştirdim<br>
+- 💡 TÜBİTAK 2247-C ve 2209-A kapsamında araştırma projeleri yürüttüm<br>
 - 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
 </p>
 
@@ -44,15 +44,12 @@
 <b>Computer Vision & ML</b><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Optuna-3860A8?style=for-the-badge"/>
 <br><br>
 <b>LLM / RAG</b><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -103,11 +100,13 @@
 <h3 align="left">🚀 Öne Çıkan Projeler</h3>
 
 <p align="left">
-🧑‍🏭 <b>Operatör Gözlem Sistemi (TEKNOPAR)</b> — YOLOv8 + ByteTrack/BoT-SORT ile operatör takibi, ısı haritaları ve yasak bölge tespiti.<br><br>
-💬 <b>ChatDB</b> — Doğal dilden SQL'e chatbot; QLoRA ile fine-tune edilmiş sqlcoder-7b-2, FastAPI + React + MongoDB/PostgreSQL.<br><br>
-🧬 <b>KTÜ PROTEK MEDTECH — TEKNOFEST 2026</b> — Genomik varyant patojenite sınıflandırması için ML modelleri (RandomForest, CatBoost, XGBoost vb.).<br><br>
-🤟 <b>Türk İşaret Dili Tanıma</b> — MediaPipe ve ML/Derin öğrenme tabanlı TİD tanıma sistemi (bitirme projesi).<br><br>
-🍽️ <b>KTÜ Yemekhane</b> — Yemekhane menüsü takibi için Flutter/Firebase mobil uygulaması.<br>
+- 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
+- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
+- 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
+- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
+- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
+- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
+- 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
 </p>
 
 ###
