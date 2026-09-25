@@ -16,7 +16,7 @@
 
 <h1 align="center">Merhaba, ben Özlem Demir 👋</h1>
 
-<h3 align="center">🤖 Computer Vision & Machine Learning meraklısı Yazılım Mühendisliği öğrencisi</h3>
+<h3 align="center">🤖 Computer Vision & Machine Learning  Yazılım Mühendisliği öğrencisi</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=YOLO+%2B+ByteTrack+ile+nesne+takibi+yaz%C4%B1yorum;RAG+tabanl%C4%B1+Text-to-SQL+sistemleri+kuruyorum;Edge+cihazlarda+model+optimize+ediyorum+(TensorRT);Sub-GHz+kablosuz+a%C4%9Flar+%C3%BCzerine+akademik+%C3%A7al%C4%B1%C5%9F%C4%B1yorum" alt="Typing SVG" />
