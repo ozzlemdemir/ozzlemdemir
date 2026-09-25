@@ -28,11 +28,11 @@
 
 <p align="left">
 - 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
-- 🔭 Şu anda <b>MoveOn AI</b>'da 3 aylık yazılım mühendisliği stajına hazırlanıyorum<br>
+- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
 - 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
-- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir derleme makalesi yazıyorum<br>
-- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda KTÜ PROTEK MEDTECH takımıyla genomik varyant sınıflandırma modelleri geliştirdim<br>
-- 💡 TÜBİTAK 2247-C ve 2209-A kapsamında araştırma projeleri yürüttüm<br>
+- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
+- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
+- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
 - 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
 </p>
 
