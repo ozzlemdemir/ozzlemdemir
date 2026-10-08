@@ -7,7 +7,7 @@
 
 <br>
 
-<h1 align="center">Merhaba, ben Özlem Demir 👋</h1>
+<h1 align="center">Merhaba, ben Özlem Demir </h1>
 
 <h3 align="center">🤖 Computer Vision & Machine Learning ,Yazılım Mühendisliği öğrencisi</h3>
 
