@@ -1,71 +1,75 @@
-<h1 align="center">Özlem Demir</h1>
- 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
+<br><br>
+</div>
+
+
+
+<br>
+
+<h1 align="center">Merhaba, ben Özlem Demir </h1>
+
+<h3 align="center">🤖 Computer Vision & Machine Learning ,Yazılım Mühendisliği öğrencisi</h3>
+
 <p align="center">
-  Computer Vision · Machine Learning · Edge Deployment<br>
-  <sub>Yazılım Mühendisliği · Karadeniz Teknik Üniversitesi</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=GitHub+sayfama+ho%C5%9F+geldiniz+%F0%9F%91%8B;%C4%B0yi+incelemeler" alt="Typing SVG" />
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ozzlemdemir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+###
+
+<h3 align="left">👩‍💻 Hakkımda</h3>
+
+<p align="left">
+- 🎓 Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim<br>
+- 🔭 Şu anda <b>MoveOn AI</b>'da computer vision ve AI stajyeriyim <br>
+- 🌱 Computer Vision, Edge Deployment ve LLM/RAG sistemleri üzerine çalışıyor ve öğreniyorum<br>
+- 🧪 Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine bir araştırma makalesinde yer aldım <br>
+- 🏆 TEKNOFEST 2026 Sağlıkta Yapay Zeka Yarışması'nda genomik varyant sınıflandırma modelleri geliştirdim<br>
+- 💡 TÜBİTAK 2247-C programında yer aldım ve 2209-A kapsamında araştırma yapıyorum <br>
+- 📫 Bana ulaşmak için: <a href="https://www.linkedin.com/in/ozzlemdemir">LinkedIn</a><br>
 </p>
----
- 
-## Hakkımda
- 
-Karadeniz Teknik Üniversitesi'nde 4. sınıf Yazılım Mühendisliği öğrencisiyim. Gerçek dünyada çalışan, uçta (edge) çalıştırılabilen yapay zekâ sistemleri geliştirmeye odaklanıyorum.
- 
-| | |
-|---|---|
-| **Şu an** | [MoveOn AI](https://www.linkedin.com/in/ozzlemdemir)'da Computer Vision & AI stajyeri |
-| **Üzerinde çalıştığım konular** | Computer Vision, Edge Deployment, LLM / RAG sistemleri |
-| **Araştırma** | Akademik danışmanım eşliğinde Sub-GHz kablosuz sensör ağları üzerine araştırma makalesi |
-| **Yarışma** | TEKNOFEST 2026 Sağlıkta Yapay Zeka: genomik varyant sınıflandırma modelleri |
-| **Programlar** | TÜBİTAK 2247-C, TÜBİTAK 2209-A (araştırma) |
- 
----
- 
-## Teknolojiler
- 
-**Computer Vision & ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
-![Optuna](https://img.shields.io/badge/Optuna-3860A8?style=flat-square)
- 
-**LLM / RAG**  
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
- 
-**Backend & Altyapı**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
- 
-**Frontend & Mobil**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
- 
-**IoT & Diller**  
-![Contiki-NG](https://img.shields.io/badge/Contiki--NG-333333?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
- 
----
- 
-## GitHub
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
+
+###
+
+<h3 align="left">🛠️ Kullandığım Araçlar & Teknolojiler</h3>
+
+<p align="left">
+<b>Computer Vision & ML</b><br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optuna-3860A8?style=for-the-badge"/>
+<br><br>
+<b>LLM / RAG</b><br>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br><br>
+<b>Backend & Altyapı</b><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<br><br>
+<b>Frontend & Mobil</b><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<br><br>
+<b>IoT & Diğer</b><br>
+<img src="https://img.shields.io/badge/Contiki--NG-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</p>
+
+###
+
+<h3 align="left">📊 GitHub İstatistiklerim</h3> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzlemdemir&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/> </p> <p align="center"> <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=ozzlemdemir&theme=react-dark&hide_border=true" alt="activity graph"/> </p> <p align="center"> <img src="https://raw.githubusercontent.com/ozzlemdemir/ozzlemdemir/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/> </p> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</div>
